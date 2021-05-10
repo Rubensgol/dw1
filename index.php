@@ -39,12 +39,12 @@
         ?>
     </h3>
     Player: O total de pontos foi:<?php echo   $resultadoP; ?>
-    <img src="imagens/dado<?php echo   $valor_dado1; ?>.png" alt="dado vermelho com"  style="width:100px;height:100px;" id="dado1">
-    <img src="imagens/dado<?php echo   $valor_dado2; ?>.png" alt="dado vermelho"  style="width:100px;height:100px;" id="dado2">
+    <img src="imagens/dado<?php echo   $valor_dado1; ?>.png" alt="dado vermelho com face de numero <?php echo   $valor_dado1; ?> pra cima" style="width:100px;height:100px;" id="dado1">
+    <img src="imagens/dado<?php echo   $valor_dado2; ?>.png" alt="dado vermelho<?php echo   $valor_dado2; ?> pra cima"  style="width:100px;height:100px;" id="dado2">
     <br>
     Robo:O total de pontos foi:<?php echo   $resultadoC; ?>
-    <img src="imagens/dado<?php echo   $valor_dado3; ?>.png" alt="dado vermelho"  style="width:100px;height:100px;" id="dado3">
-    <img src="imagens/dado<?php echo   $valor_dado4; ?>.png" alt="dado vermelho"  style="width:100px;height:100px;" id="dado4">
+    <img src="imagens/dado<?php echo   $valor_dado3; ?>.png" alt="dado vermelho<?php echo   $valor_dado3; ?> pra cima"  style="width:100px;height:100px;" id="dado3">
+    <img src="imagens/dado<?php echo   $valor_dado4; ?>.png" alt="dado vermelho<?php echo   $valor_dado4; ?> pra cima"  style="width:100px;height:100px;" id="dado4">
 
     
 
